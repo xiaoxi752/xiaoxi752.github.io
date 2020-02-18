@@ -54,7 +54,7 @@ body {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url("https://xiaoxi-1253350158.cos.ap-chongqing.myqcloud.com/longmao.jpg?q-sign-algorithm=sha1&q-ak=AKIDGSo396rZ5ShW9gpHMKAdxNhv8DBz7BYv&q-sign-time=1582005916;1582007716&q-key-time=1582005916;1582007716&q-header-list=&q-url-param-list=&q-signature=7010c9cd587f18cea65f97913b718917b6fb451c");
+  background: url("https://xiaoxi-1253350158.cos.ap-chongqing.myqcloud.com/%E9%85%8D%E7%BD%AE%E5%9B%BE%E7%89%87/longmao.jpg");
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -1919,7 +1919,7 @@ blockquote footer cite:before {
 }
 #vcomment textarea {
   font-size: 0.7rem;
-  background: url("/img/comment_bg.png") 100% 100% no-repeat;
+  background: url("https://xiaoxi-1253350158.cos.ap-chongqing.myqcloud.com/%E9%85%8D%E7%BD%AE%E5%9B%BE%E7%89%87/comment_bg.png") 100% 100% no-repeat;
 }
 #vcomment .info {
   display: none;
